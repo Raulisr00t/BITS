@@ -1,4 +1,4 @@
-# BITS File Downloader (Windows)
+# Windows Service -> BITS File Downloader 
 
 This is a simple **Windows C++ program** that downloads a file using **Background Intelligent Transfer Service (BITS)**.  
 It downloads a file from a given URL and saves it to the user's **Temp** directory.
@@ -38,5 +38,3 @@ Pavel Yosifovich – Windows Internals Expert & Author
 
 ## License
 This project is open-source. Feel free to modify and use it as needed.
-
-    If the program hangs indefinitely, check if BITS is running:
